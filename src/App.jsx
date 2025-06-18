@@ -2,14 +2,15 @@
 import React, { useEffect } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
-import Navbar from "./Portfolio/Navbar";
-import Home from "./Portfolio/Home";
-import About from "./Portfolio/About";
-import Resume from "./Portfolio/Resume";
-import Skills from "./Portfolio/Skills";
-import Project from "./Portfolio/Project";
-import Contact from "./Portfolio/Contact";
-import Footer from "./Portfolio/Footer";
+import Navbar from "./portfolio/Navbar";
+import Home from "./portfolio/Home";
+import About from "./portfolio/About";
+import Resume from "./portfolio/Resume";
+import Skills from "./portfolio/Skills";
+import Project from "./portfolio/Project";
+import Contact from "./portfolio/Contact";
+import Footer from "./portfolio/Footer";
+
 
 
 function App() {
